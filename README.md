@@ -29,3 +29,13 @@ sekikita3jichikai@outlook.jp を入力。
 ログインID: zhxz3zx@tepco  
 パスワード: 4567uYtR  
 メールアドレス: sekikita3jichikai@outlook.jp  
+
+## くらしTEPCO web 操作
+くらしTEPCO web[`(https://www.kurashi.tepco.co.jp/)`](https://www.kurashi.tepco.co.jp/)へ移動。  
+![TEPCO-login](Images/TEPCO-login.jpg)  
+メールアドレスとパスワードを入力。  
+![TEPCO-top](Images/TEPCO-top.jpg)  
+「現在表示中のプラン：」の右のリストボックスを選択  
+![TEPCO-keiyaku](Images/TEPCO-keiyaku-list.jpg)  
+
+以上で説明概要を終わります。
