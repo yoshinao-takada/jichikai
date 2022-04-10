@@ -7,10 +7,10 @@
 ## 具体的な方法
 Microsoft outlookの無料アカウントを取得する。  
 Step 1: [サインインメニューから __作成__ を選択](https://login.live.com/)  
-![sign-in menu image](images/Sign-in.jpg)  
+![sign-in menu image](images/Sign-in.png)  
 <br>
 Step 2: [アカウントの作成メニューから __新しいメールアドレスを取得__ を選択]  
-![create new e-mail address](images/New-account.jpg)  
+![create new e-mail address](images/New-account.gif)  
 e-mail: sekikita3jichikai@outlook.jp  
 password: [[1234aBcD  
 姓: 関町北三丁目都営練馬関町北三丁目  
@@ -20,10 +20,10 @@ password: [[1234aBcD
 ## サインイン(Windows PCから)
 ブラウザを開き[https://login.live.com/](https://login.live.com/)へ移動。  
 sekikita3jichikai@outlook.jp を入力。  
-![Sign-in-my-account](images/Sign-in-my-account.jpg)  
+![Sign-in-my-account](images/Sign-in-my-account.png)  
 
 パスワード __[[1234aBcD__ を入力。  
-![password](images/Password.jpg)  
+![password](images/Password.png)  
 
 ## くらしTEPCO　登録情報
 ログインID: zhxz3zx@tepco  
